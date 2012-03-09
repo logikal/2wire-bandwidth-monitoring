@@ -5,8 +5,8 @@ import re
 import sys
 
 mech = Browser()
-#url = "http://192.168.1.254/xslt?PAGE=C_1_0"
-url = "http://192.168.1.123123"
+url = "http://192.168.1.254/xslt?PAGE=C_1_0"
+
 try:
         page = mech.open(url)
 except:
