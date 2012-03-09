@@ -5,6 +5,7 @@ This is a quick and dirty Nagios-style script that I use to monitor bandwidth in
 Dependencies
 ------------
 Requires mechanize and BeautifulSoup, which you can install like so:
+
 ```bash    
 easy_install mechanize    
 easy_install BeautifulSoup
