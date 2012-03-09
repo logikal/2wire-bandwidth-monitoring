@@ -1,7 +1,7 @@
 2Wire Bandwidth Monitoring
 ==========================
 
-This is a quick and dirty Nagios-style script that I use to monitor bandwidth in and out of my 2Wire router used with my ATT Uverse internet connection
+This is a quick and dirty Nagios-style script that I use to monitor bandwidth in and out of the 2Wire router used with my ATT Uverse internet connection
 
 Dependencies
 ------------
