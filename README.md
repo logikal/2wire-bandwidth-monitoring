@@ -11,8 +11,8 @@ Requires mechanize and BeautifulSoup
 Install with the following:
 
 ```bash    
-    easy_install mechanize    
-    easy_install BeautifulSoup
+easy_install mechanize    
+easy_install BeautifulSoup
 ```
 Use with Nagios/Zenoss
 ---------------
